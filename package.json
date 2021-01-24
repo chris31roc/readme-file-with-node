@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/chris31roc/readme-file-with-node/issues"
   },
-  "homepage": "https://github.com/chris31roc/readme-file-with-node#readme"
+  "homepage": "https://github.com/chris31roc/readme-file-with-node#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
 }
